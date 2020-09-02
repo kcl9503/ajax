@@ -8,6 +8,10 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "message": [
+    {"imgurl":http://www.google.com},
+    {"imgurl":http://tw.yahoo.com}}
+  ],
   "profile": {
     "name": "typicode"
   }
